@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+main{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.LateralBarDere{
+    margin-top: 0%;
+    text-align: center;
+}
